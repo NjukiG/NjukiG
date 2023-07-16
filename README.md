@@ -10,8 +10,6 @@ Skills: REACT / JS / Ruby on Rails / Python  / Django  / AWS
 - 📫 How to reach me: gnjuki19@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NjukiG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/george-njuki/)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=NjukiG)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjukiG)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,5 +17,7 @@ Skills: REACT / JS / Ruby on Rails / Python  / Django  / AWS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NjukiG&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=NjukiG)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NjukiG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/george-njuki/)  
 
 ![Profile views](https://gpvc.arturio.dev/NjukiG)  
