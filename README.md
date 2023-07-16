@@ -1,16 +1,23 @@
-### Hi there 👋 I'm George.
+### Hi there 👋, I'm George Njuki.
+#### I'm a Software Developer and an AWS Cloud Practitioner.
+I'm currently a Store Assistant looking to make a transition into technology as a fullstack developer.
 
-<!--
-**NjukiG/NjukiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JS / Ruby on Rails / Python  / Django  / AWS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a healthcare appointment booking app. 
+- 🌱 I’m currently learning Django and preparing for my AWS Solutions Architect certification exams. 
+- 💬 Ask me about JavaScript, ReactJS, Ruby on Rails, Django and AWS 
+- 📫 How to reach me: gnjuki19@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NjukiG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/george-njuki/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NjukiG)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NjukiG)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NjukiG&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=NjukiG)  
+
+![Profile views](https://gpvc.arturio.dev/NjukiG)  
