@@ -2,10 +2,10 @@
 #### I'm a Software Developer and an AWS Cloud Practitioner.
 I'm currently a Store Assistant looking to make a transition into technology as a fullstack developer.
 
-Skills: REACT / JS / Ruby on Rails / Python  / Django  / AWS
+Skills: REACT / JS / Ruby on Rails / Python  / Django  / AWS / Java
 
 - 🔭 I’m currently working on a healthcare appointment booking app. 
-- 🌱 I’m currently learning Django and preparing for my AWS Solutions Architect certification exams. 
+- 🌱 I’m currently learning Java. 
 - 💬 Ask me about JavaScript, ReactJS, Ruby on Rails, Django and AWS 
 - 📫 How to reach me: gnjuki19@gmail.com 
 
