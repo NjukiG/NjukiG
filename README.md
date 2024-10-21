@@ -6,7 +6,7 @@ Skills: REACT / JS / Ruby on Rails / Python  / Django  / AWS / Java
 
 - 🔭 I’m currently working on a healthcare appointment booking app. 
 - 🌱 I’m currently learning Java. 
-- 💬 Ask me about JavaScript, ReactJS, Ruby on Rails, Django and AWS 
+- 💬 Ask me about JavaScript, ReactJS, Ruby on Rails, Go and AWS 
 - 📫 How to reach me: gnjuki19@gmail.com 
 
 
